@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Primeiro repositório versionada
+ Primeiro projeto versionado
 
 Repositório criado durante uma aula ao vivo!
 
